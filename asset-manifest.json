@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DreamKart_React/static/css/main.76039adf.chunk.css",
+    "main.js": "/DreamKart_React/static/js/main.8647100a.chunk.js",
+    "main.js.map": "/DreamKart_React/static/js/main.8647100a.chunk.js.map",
+    "runtime-main.js": "/DreamKart_React/static/js/runtime-main.97162565.js",
+    "runtime-main.js.map": "/DreamKart_React/static/js/runtime-main.97162565.js.map",
+    "static/js/2.6d0cc3f1.chunk.js": "/DreamKart_React/static/js/2.6d0cc3f1.chunk.js",
+    "static/js/2.6d0cc3f1.chunk.js.map": "/DreamKart_React/static/js/2.6d0cc3f1.chunk.js.map",
+    "static/js/3.18b2736d.chunk.js": "/DreamKart_React/static/js/3.18b2736d.chunk.js",
+    "static/js/3.18b2736d.chunk.js.map": "/DreamKart_React/static/js/3.18b2736d.chunk.js.map",
+    "index.html": "/DreamKart_React/index.html",
+    "static/css/main.76039adf.chunk.css.map": "/DreamKart_React/static/css/main.76039adf.chunk.css.map",
+    "static/js/2.6d0cc3f1.chunk.js.LICENSE.txt": "/DreamKart_React/static/js/2.6d0cc3f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DreamKart_React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97162565.js",
+    "static/js/2.6d0cc3f1.chunk.js",
+    "static/css/main.76039adf.chunk.css",
+    "static/js/main.8647100a.chunk.js"
+  ]
+}
